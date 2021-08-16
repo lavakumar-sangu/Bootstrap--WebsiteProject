@@ -58,6 +58,39 @@ body {
     background-color: #f5a142;
 }
 
+.kpt-pic {
+    width: 130px !important;
+    margin-top: -14px !important;
+}
+
+.firstpic {
+    width: 1200px;
+    height: 700px;
+}
+
+.color-cha {
+    color: black !important;
+}
+
+#nav-btnchn {
+    font-weight: bolder !important;
+}
+
+#carousel-ri-le {
+    color: white;
+}
+
+.contact-form {
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+
+#btn-sub {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 83, 0);
+}
+
 @media all and (min-width: 480px) {
     body {
         position: relative;
